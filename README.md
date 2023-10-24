@@ -20,7 +20,7 @@ In meinem zweiten Projekt möchte ich mit C# ein Snake-Spiel programmieren. Ich 
 | 2   | Arbeitspaket 1 | -   | Schlange bewegt sich regelmässig in eine Richtung |   x  |
 | 3   | Arbeitspaket 2 | Pfeiltasten, WASD-Tasten | Schlange ändert seine Richtung |  x   |
 # Arbeit heute
-Heute habe ich recherchiert, wie man Tastatureingaben ermöglicht, ohne diese mit Enter zu bestätigen. Dies hat nichtvollständig funktioniert, da es sehr viele Informationen im Internet hat und ich etwas Spezifisches in den Code einfügen will. Ich sollte wenn ich nichts finde ChatGPT fragen, da es Sachen einfacher erklären kann. ( Wörter)
+Heute habe ich recherchiert, wie man Tastatureingaben ermöglicht, ohne diese mit Enter zu bestätigen. Dies hat nichtvollständig funktioniert, da es sehr viele Informationen im Internet hat und ich etwas Spezifisches in den Code einfügen will. Ich sollte wenn ich nichts finde ChatGPT fragen, da es Sachen einfacher erklären kann. Ich sollte besser recherchieren. (53 Wörter)
 
 ## Arbeitspakete für 31.10.2023
 - [ ] Ein neues `C#`-Projekt erstellen bei dem gefragt wird, ob man das Spiel starten will. Wenn man eine Taste drückt startet das Spiel.
