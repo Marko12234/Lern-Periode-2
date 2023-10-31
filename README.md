@@ -29,9 +29,9 @@ Heute habe ich recherchiert, wie man Tastatureingaben ermöglicht, ohne diese mi
 - [ ] Ränder zum Spielbereich einfügen.
 
 | Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
-| 1   | ---   | Taste W gedrückt | Spiel startet | x    |
-| 2   | Arbeitspaket 1 | --- | Schlange bewegt sich regelmässig in eine Richtung |  ---  |
-| 3   | Arbeitspaket 2 | Pfeiltasten, WASD-Tasten | Schlange ändert seine Richtung | ---   |
+| 1 | --- | Taste W gedrückt | Spiel startet | x | 
+| 2 | Arbeitspaket 1 | --- | Schlange bewegt sich regelmässig in eine Richtung | --- |
+| 3 | Arbeitspaket 2 | Pfeiltasten, WASD-Tasten | Schlange ändert seine Richtung | --- |
 | 4 | Arbeitspaket 2 | --- | "Spiel verloren" | --- |
 
 ## Arbeitszusammenfassung 31.10.2023
