@@ -6,7 +6,7 @@ Marko Carritiello
 
 ## Leit-Satz
 
-In meinem zweiten Projekt möchte ich mit C# ein Snake-Spiel programmieren. Ich möchte meine Fähigkeiten in C# vertiefen und dabei selbstständig nach Lösungen und Informationen suchen um dieses Ziel zu erreichen. Ich möchte zeiteffizient arbeiten und Probleme in C#-Logik umwandeln können. ()
+In meinem zweiten Projekt möchte ich mit C# ein Snake-Spiel programmieren. Ich möchte meine Fähigkeiten in C# vertiefen und dabei selbstständig nach Lösungen und Informationen suchen um dieses Ziel zu erreichen. Ich möchte zeiteffizient arbeiten und Probleme in C#-Logik umwandeln können. (41 Wörter)
 
 ## Arbeitspakete für 24.10.2023
 
