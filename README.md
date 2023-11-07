@@ -36,7 +36,7 @@ Heute habe ich recherchiert, wie man Tastatureingaben ermöglicht, ohne diese mi
 | 4 | Arbeitspaket 2 | --- | "Spiel verloren" | --- |
 
 ## Arbeitszusammenfassung 31.10.2023
-Heute hatte ich einen Arzttermin und deshalb konnte ich nicht lange arbeiten. Ich sollte den Syntax von C# kennenlernen um auftretende Fehler besser beheben zu können/zu verhindern. Ich sollte beim Programmieren nicht nur versuchen, möglichst einfachen Code zu schreiben, da man manche Sachen nicht programmieren kann wenn man nur bestimmte Funktionen nutzt. Auf der anderen Seite musste ich das Arbeitspaket 1 vereinfachen. Ich sollte vlt. in der Freizeit etwas mit C# üben um es besser zu kennen.
+Heute hatte ich einen Arzttermin und deshalb konnte ich nicht lange arbeiten. Ich sollte den Syntax von C# kennenlernen um auftretende Fehler besser beheben zu können/zu verhindern. Ich sollte beim Programmieren nicht nur versuchen, möglichst einfachen Code zu schreiben, da man manche Sachen nicht programmieren kann wenn man nur bestimmte Funktionen nutzt. Auf der anderen Seite musste ich das Arbeitspaket 1 vereinfachen. Ich sollte vlt. in der Freizeit etwas mit C# üben um es besser zu kennen. (77 Wörter)
 
 ## Arbeitspaket für 7.11.2023
 
@@ -45,6 +45,16 @@ Heute hatte ich einen Arzttermin und deshalb konnte ich nicht lange arbeiten. Ic
 | 1   | --- | ---   | Schlange bewegt sich regelmässig in eine Richtung | ---   |
 | 2   | Arbeitspaket 1 | Pfeiltasten, WASD-Tasten | Schlange ändert seine Richtung |  ---  |
 | 3 | Arbeitspaket 1 | --- | "Spiel verloren" | --- |
+
+## Arbeitszusammenfassung 7.11.2023
+Heute konnte ich Aufgabe 1 nur teilweise lösen. Ich konnte die Schlange sich in eine Richtung bewegen lassen allerdings muss ich die vorherigen Positionen der Schlange löschen. Allerdings habe ich heute viel gelernt, auch wenn es schlussendlich meine Arbeitspakete nicht lösen konnte. Ich finde, ich sollte die Arbeitspakete aufteilen, da es mehr Zwischenschritte und Zeit braucht als gedacht. (58 Wörter) 
+
+## Arbeitspaket für 14.11.2023
+| Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt |
+| --- | --- | --- | --- | --- |
+| 1 | --- | --- | vorherige Positionen der Schlange werden gelöscht | --- |
+| 2 | --- | Pfeiltasten, WASD-Tasten | Schlange ändert seine Richtung | --- |
+| 3 | --- | Schlange berührt Rand | "Spiel verloren" | --- |
 
 
 
