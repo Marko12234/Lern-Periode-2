@@ -40,22 +40,39 @@ Heute hatte ich einen Arzttermin und deshalb konnte ich nicht lange arbeiten. Ic
 
 ## Arbeitspaket für 7.11.2023
 
+- [ ] die Schlange sich regelmässig in eine Richtung bewegen lassen
+- [ ] die vorherigen Positionen der Schlange löschen
+- [ ] Anzeige fürs Ende vom Spiel erstellen
+
 | Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
 | --- | --- | --- | --- | --- |
 | 1   | --- | ---   | Schlange bewegt sich regelmässig in eine Richtung | ---   |
-| 2   | Arbeitspaket 1 | Pfeiltasten, WASD-Tasten | Schlange ändert seine Richtung |  ---  |
-| 3 | Arbeitspaket 1 | --- | "Spiel verloren" | --- |
+| 2 | --- | Arbeitspaket 1 | vorherige Positionen der Schlange werden gelöscht | --- |
+| 3 | --- | --- | "Spiel verloren" | --- |
 
 ## Arbeitszusammenfassung 7.11.2023
 Heute konnte ich Aufgabe 1 nur teilweise lösen. Ich konnte die Schlange sich in eine Richtung bewegen lassen allerdings muss ich die vorherigen Positionen der Schlange löschen. Allerdings habe ich heute viel gelernt, auch wenn es schlussendlich meine Arbeitspakete nicht lösen konnte. Ich finde, ich sollte die Arbeitspakete aufteilen, da es mehr Zwischenschritte und Zeit braucht als gedacht. (58 Wörter) 
 
 ## Arbeitspaket für 14.11.2023
+
+-[] die vorherigen Positionen der Schlange löschen
+-[] Die Steuerung mit WASD- und Pfeiltasten einfügen
+-[] Anzeige fürs Ende vom Spiel erstellen
+
 | Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt |
 | --- | --- | --- | --- | --- |
-| 1 | --- | --- | vorherige Positionen der Schlange werden gelöscht | --- |
+| 1 | --- | --- | vorherige Positionen der Schlange werden gelöscht | x |
 | 2 | --- | Pfeiltasten, WASD-Tasten | Schlange ändert seine Richtung | --- |
 | 3 | --- | Schlange berührt Rand | "Spiel verloren" | --- |
 
+## Arbeitszusammenfasssung 14.11.2023
+Ich konnte das erste Arbeitspaket lösen, allerdings habe ich heute angefangen Windows Forms zu nutzen. Ich musste heute Vieles neu machen, allerdings sieht es mit WinForms einfacher aus, das Spiel zu programmieren, da es eine Benutzeroberfläche hat. Nächstes Mal sollte ich vor dem Programmieren nachdenken, was für eine Art von Programm ich programmieren sollte.
 
+## Arbeitspakete für 21.11.2023
+| Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
+| --- | --- | --- | --- | --- |
+| 1 | --- | Spiel starten drücken | Schlange bewegt sich in eine Richtung | --- |
+| 2 | --- | Spiel starten drücken | Schlange bewegt sich regelmässig in eine Richtung | --- |
+| 3 | --- | Spiel starten drücken | vorherige Positionen der Schlange werden gelöscht | --- |
 
 
