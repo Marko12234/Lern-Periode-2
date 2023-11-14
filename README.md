@@ -55,9 +55,9 @@ Heute konnte ich Aufgabe 1 nur teilweise lösen. Ich konnte die Schlange sich in
 
 ## Arbeitspaket für 14.11.2023
 
--[] die vorherigen Positionen der Schlange löschen
--[] Die Steuerung mit WASD- und Pfeiltasten einfügen
--[] Anzeige fürs Ende vom Spiel erstellen
+-[ ] die vorherigen Positionen der Schlange löschen
+-[ ] Die Steuerung mit WASD- und Pfeiltasten einfügen
+-[ ] Anzeige fürs Ende vom Spiel erstellen
 
 | Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt |
 | --- | --- | --- | --- | --- |
@@ -74,5 +74,3 @@ Ich konnte das erste Arbeitspaket lösen, allerdings habe ich heute angefangen W
 | 1 | --- | Spiel starten drücken | Schlange bewegt sich in eine Richtung | --- |
 | 2 | --- | Spiel starten drücken | Schlange bewegt sich regelmässig in eine Richtung | --- |
 | 3 | --- | Spiel starten drücken | vorherige Positionen der Schlange werden gelöscht | --- |
-
-
