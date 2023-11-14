@@ -39,7 +39,6 @@ Heute habe ich recherchiert, wie man Tastatureingaben ermöglicht, ohne diese mi
 Heute hatte ich einen Arzttermin und deshalb konnte ich nicht lange arbeiten. Ich sollte den Syntax von C# kennenlernen um auftretende Fehler besser beheben zu können/zu verhindern. Ich sollte beim Programmieren nicht nur versuchen, möglichst einfachen Code zu schreiben, da man manche Sachen nicht programmieren kann wenn man nur bestimmte Funktionen nutzt. Auf der anderen Seite musste ich das Arbeitspaket 1 vereinfachen. Ich sollte vlt. in der Freizeit etwas mit C# üben um es besser zu kennen. (77 Wörter)
 
 ## Arbeitspaket für 7.11.2023
-
 - [ ] die Schlange sich regelmässig in eine Richtung bewegen lassen
 - [ ] die vorherigen Positionen der Schlange löschen
 - [ ] Anzeige fürs Ende vom Spiel erstellen
@@ -55,9 +54,9 @@ Heute konnte ich Aufgabe 1 nur teilweise lösen. Ich konnte die Schlange sich in
 
 ## Arbeitspaket für 14.11.2023
 
--[ ] die vorherigen Positionen der Schlange löschen
--[ ] Die Steuerung mit WASD- und Pfeiltasten einfügen
--[ ] Anzeige fürs Ende vom Spiel erstellen
+- [ ] die vorherigen Positionen der Schlange löschen
+- [ ] Die Steuerung mit WASD- und Pfeiltasten einfügen
+- [ ] Anzeige fürs Ende vom Spiel erstellen
 
 | Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt |
 | --- | --- | --- | --- | --- |
@@ -69,6 +68,10 @@ Heute konnte ich Aufgabe 1 nur teilweise lösen. Ich konnte die Schlange sich in
 Ich konnte das erste Arbeitspaket lösen, allerdings habe ich heute angefangen Windows Forms zu nutzen. Ich musste heute Vieles neu machen, allerdings sieht es mit WinForms einfacher aus, das Spiel zu programmieren, da es eine Benutzeroberfläche hat. Nächstes Mal sollte ich vor dem Programmieren nachdenken, was für eine Art von Programm ich programmieren sollte.
 
 ## Arbeitspakete für 21.11.2023
+
+- [ ] Schlange sich in eine Richtung in WinForms bewegen lassen.
+- [ ] Schlange sich regelmässig in eine Richtung bewegen lassen in WinForms
+- [ ] die vorherigen Positionen der Schlange löschen in WinForms
 | Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
 | --- | --- | --- | --- | --- |
 | 1 | --- | Spiel starten drücken | Schlange bewegt sich in eine Richtung | --- |
